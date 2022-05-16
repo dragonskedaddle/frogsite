@@ -1,0 +1,41 @@
+.collage-container{
+    width: 100%;
+    display: flex;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 0;
+}
+.column{
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 2rem;
+    overflow: hidden;
+}
+.column img{
+    padding: 1rem;
+    background-color: #486055;
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    transition-duration: 1s;
+}
+.column img:hover{
+    background-color: #9EAE98;
+    transition-duration: 1s;
+}
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+        padding-left: 0rem;
+    }
+}

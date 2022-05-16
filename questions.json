@@ -1,0 +1,65 @@
+{
+    "1" : {
+        "q" : "the perfect gift for you would be?",
+        "a" : {
+            "1": "gift cards, why burden people with the task of trying to find the perfect gift",
+            "6": "handmade stuff, i really like personalised stuff even if it may not have value",
+            "5": "clothes, my fashion sense sucks and i rely on other people to get me good clothes",
+            "4": "nothing, i dont like recieving gifts i like giving them"
+        }
+    },
+    "2" : {
+        "q" : "what is your favorite color?",
+        "a" : {
+            "6": "green",
+            "5": "purple",
+            "1": "black",
+            "2": "blue"
+        }
+    },
+    "3" : {
+        "q" : "pick a snack",
+        "a" : {
+            "1": "cheetos",
+            "5": "homemade brownies",
+            "3": "digestive biscuits",
+            "4": "an orange"
+        }
+    },
+    "4" : {
+        "q" : "what are you most afraid of?",
+        "a" : {
+            "2": "you and all your loved ones dying",
+            "3": "your career and future",
+            "1": "spiders",
+            "4": "asking someone out"
+        }
+    },
+    "5" : {
+        "q" : "whats your favorite animal?",
+        "a" : {
+            "6": "frogs",
+            "4": "penguins",
+            "2": "horses",
+            "3": "llamas"
+        }
+    },
+    "6" : {
+        "q" : "do you wake up before your alarm?",
+        "a" : {
+            "1": "always!",
+            "2": "sometimes",
+            "3": "never",
+            "4": "i'm usually hitting the snooze button before it even rings"
+        }
+    },
+    "7" : {
+        "q" : "what is your favorite genre of music?",
+        "a" : {
+            "6": "indie",
+            "5": "pop",
+            "3": "classical",
+            "2": "r&b/rap"
+        }
+    }
+}
